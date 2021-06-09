@@ -18,3 +18,4 @@
 ### Reference
 
 - https://www.youtube.com/watch?v=X48VuDVv0do
+- https://www.quora.com/What-is-minikube-kubectl-and-kubelet
